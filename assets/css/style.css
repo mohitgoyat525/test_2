@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+.card-hover:hover .cards-text {
+     color: #ffffff;
+}
+.card-hover:hover{
+  background-color: #1B3353;
+}
+.card-hover:hover .icon-box{
+    background-color: white;
+}
+.card-hover:hover svg path{
+    fill: #1B3353;
+}
+.d-block{
+    display: block;
+}
+.active{
+    display: block;
+}
