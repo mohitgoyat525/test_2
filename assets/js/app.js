@@ -1,3 +1,4 @@
+// Accordian
 const accordionItems = document.querySelectorAll(".accordionItem");
 
 accordionItems.forEach((item) => {
